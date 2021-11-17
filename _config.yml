@@ -1,9 +1,9 @@
 # Site settings
-title: kk's Blog
-SEOTitle: kk's Blog
+title: kk Blog
+SEOTitle: Blog
 header-img: img/home-bg.jpg
 email: 976911453@qq.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
+description: "我的博客"
 keyword: "java, c++"
 url: "https://kk.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -71,8 +71,8 @@ kramdown:
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 
 
