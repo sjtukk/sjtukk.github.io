@@ -2,13 +2,12 @@
 layout:     post
 date:       2021-11-18
 author:     "kk"
+title: "c++与java的区别"
 catalog: false
 header-style: text
 tags:
   - c++
 ---
-
-# c++与java的区别
 
 java与c++很大很大一个区别是，在**Java中万物皆对象**，数据和方法都封装在类里面，而在C++中并不都是对象，有全局函数也有全局变量，并不是所有的数据和函数都封装在类里面！！！**在C++中既可以写面向过程风格的代码，也可以写面向对象风格的代码**。
 
